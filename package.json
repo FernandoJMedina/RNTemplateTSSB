@@ -1,0 +1,8 @@
+{
+	"name": "RNTemplateTSSB",
+	"version": "0.0.1",
+	"description": "React Native Template with Typescript and StoryBook",
+	"repository": "https://github.com/FernandoJMedina/RNTemplateTSSB.git",
+	"author": "Fernando Medina",
+	"license": "MIT"
+}
